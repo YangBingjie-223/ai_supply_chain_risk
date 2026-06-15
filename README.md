@@ -106,21 +106,26 @@ Main limitations include:
 ai_supply_chain_risk/
 │
 ├── notebooks/
-│   ├── Note01_data_loading.ipynb
-│   ├── Note02_data_cleaning.ipynb
-│   ├── Note03_feature_engineering.ipynb
-│   ├── Note04_risk_scoring.ipynb
-│   ├── Note05_ml_validation.ipynb
-│   ├── Note06_final_business_insights.ipynb
-│   └── Note07_portfolio_report_assets.ipynb
-│
-├── outputs/
-│   ├── note06_final_business_insights.xlsx
-│   ├── note06_final_business_summary.txt
-│   └── note06_charts/
+│   ├── 01_check_raw_financials.ipynb
+│   ├── 02_build_risk_score.ipynb
+│   ├── 03_analyze_risk_results.ipynb
+│   ├── 04_unsupervised_ml_validation.ipynb
+│   ├── 05_results_interpretation.ipynb
+│   ├── 06_final_business_insights.ipynb
+│   └── 07_portfolio_report_assets.ipynb
 │
 ├── github_assets/
+│   ├── note06_latest_year_top_15_risk_companies.png
+│   ├── note06_top_15_risk_increase_companies.png
+│   └── note06_latest_year_cluster_distribution.png
 │
+├── portfolio_assets/
+│   ├── resume_project_bullets.txt
+│   ├── interview_talking_points.txt
+│   ├── project_limitations.txt
+│   └── final_project_checklist.txt
+│
+├── note06_final_business_summary.txt
 ├── README.md
 ├── requirements.txt
 └── .gitignore
