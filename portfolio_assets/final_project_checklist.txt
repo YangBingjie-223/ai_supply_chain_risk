@@ -1,0 +1,35 @@
+Final Project Checklist
+
+Core notebooks:
+[ ] Note01 completed
+[ ] Note02 completed
+[ ] Note03 completed
+[ ] Note04 completed
+[ ] Note05 completed
+[ ] Note06 completed
+[ ] Note07 completed
+
+Core outputs:
+[ ] note06_final_business_insights.xlsx exists
+[ ] final_watchlist sheet exists
+[ ] note06 charts exist
+[ ] README.md exists
+[ ] requirements.txt exists
+[ ] .gitignore exists
+[ ] resume_project_bullets.txt exists
+[ ] interview_talking_points.txt exists
+
+Business conclusion:
+[ ] Do not describe the project as predicting actual supply chain disruptions
+[ ] Describe it as a risk screening framework
+[ ] Use 神州数码 and 浪潮信息 as main cases
+[ ] Use 工业富联 as a stable but high-level comparison case
+[ ] Use 紫光股份 only as supplementary attention
+[ ] Mention limitations clearly
+
+Before resume submission:
+[ ] Put 2-3 project bullets into resume
+[ ] Prepare 1-minute project explanation
+[ ] Prepare 3-minute project explanation
+[ ] Upload cleaned project to GitHub
+[ ] Add GitHub link to resume if repository is ready

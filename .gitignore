@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+.DS_Store
+
+# Optional: ignore large or raw data files if needed
+data/raw/
+outputs/*.xlsx
+outputs/*.csv

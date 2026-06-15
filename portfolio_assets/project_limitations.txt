@@ -1,0 +1,19 @@
+Project Limitations
+
+1. Sample size limitation
+The current sample includes a limited number of listed companies, so the result should be interpreted as a demonstration of analytical framework rather than a statistically comprehensive industry conclusion.
+
+2. Proxy variable limitation
+Some supply chain risk factors are not directly disclosed in annual reports. Therefore, several indicators are constructed as proxy variables, such as overseas revenue exposure, export sales proxy, cash flow pressure, and operating efficiency indicators.
+
+3. No direct event label
+This project does not use a direct supply chain disruption event label. The risk score is designed for screening and ranking, not for predicting a confirmed future event.
+
+4. Cluster interpretation limitation
+Cluster labels are used to describe company risk profiles. A cluster profile should not be directly interpreted as a confirmed high-risk classification.
+
+5. Disclosure inconsistency
+Different companies disclose financial and operating details in different formats, which may affect comparability across companies and years.
+
+6. Practical usage
+The output should be used as a starting point for further due diligence, not as a standalone investment or credit decision.
